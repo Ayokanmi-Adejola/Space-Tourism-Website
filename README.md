@@ -83,7 +83,3 @@ Each technology has a detailed description and image.
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## Author
-
-- Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
